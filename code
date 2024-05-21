@@ -1,0 +1,41 @@
+
+
+<p class="card-description">
+                Attend live class and get your doubts cleared by the instructor in real-time just like a physical
+                classroom.
+                No boring pre-recorded videos.
+
+            </p>
+
+        </div>
+        <div class="card">
+            <div class="card-header-section">
+                <img src="https://cdn.roadtocode.org/unique-features/doubt-resolution-md.png" class="card-img" />
+                <h1 class="card-heading">Quick Doubt Resolutions.</h1>
+            </div>
+
+            <p class="card-description">
+                Get your doubts resolved quickly. No more waiting for the next class. Once you ask a doubt our teaching
+                assistants will resolve it as soon as possible.
+
+            </p>
+
+        </div>
+        <div class="card">
+            <div class="card-header-section">
+                <img src="https://cdn.roadtocode.org/unique-features/lifetime-free-notes-md.png" class="card-img" />
+                <h1 class="card-heading">Lifetime Free Notes</h1>
+            </div>
+
+            <p class="card-description">
+                Get lifetime access of the notes that you can refer anytime in the future. High-quality notes prepared
+                by the instructor. No need to buy any books.
+
+            </p>
+
+        </div>
+
+    </div>
+</body>
+
+</html>
